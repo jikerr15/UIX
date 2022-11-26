@@ -1,0 +1,6 @@
+Participant,Errors,Clicks,Pauses,Time it took(sec),Task Completed
+Caleb,0,3,1,10.3,yes
+Ian,1,4,3,14.8,yes
+Katie,3,9,4,25.6,yes
+Emma,1,4,2,13.2,yes
+Emmett,5,12,6,43.5,no
